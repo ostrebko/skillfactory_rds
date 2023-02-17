@@ -1,1 +1,1 @@
-# skillfactory_rds - практические задания, которые выполнялись при прохождении курса Специализация Data Science.
+# skillfactory_rds - practical tasks that were performed during the course Specialization Data Science.
